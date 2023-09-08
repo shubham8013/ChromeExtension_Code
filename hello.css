@@ -1,0 +1,14 @@
+div{
+    width: 300px;
+    font-size: medium;
+    background-color: rgb(231, 240, 236);
+    border-radius: 2px;
+    text-align: center;
+}
+#button1{
+    width: 80px;
+        height: 30px;
+        background-color: greenyellow;
+        border-radius: 10px;
+        border-color: red;
+}
